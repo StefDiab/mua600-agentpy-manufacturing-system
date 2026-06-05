@@ -1,0 +1,24 @@
+{
+  "setX": 1,
+  "setY": 2,
+
+  "vacuum": 3,
+
+  "startp1": 4,
+  "startp2": 5,
+
+  "atX": 15,
+  "atY": 16,
+
+  "source1_sensor": 17,
+  "source2_sensor": 18,
+
+  "p1_running": 19,
+  "p2_running": 20,
+
+  "p1_sensor": 21,
+  "p2_sensor": 22,
+
+  "button1": 23,
+  "button2": 24
+}
